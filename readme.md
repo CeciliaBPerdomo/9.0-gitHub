@@ -5,3 +5,4 @@
 - 9.3 - Introducción a GitHub
 - 9.4 - Django: introducción, MVC y creación de un proyecto
 - 9.5 - Django: Primer View, creación y uso de templates
+- 9.6 - Entornos Virtuales y Paquetes en Python

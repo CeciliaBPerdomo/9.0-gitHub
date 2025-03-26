@@ -5,6 +5,8 @@
         - tiene que estar activo siempre para que funcione       
     - pip install django
     - django-admin startproject proyecto .
+    - python manage.py migrate
+        - crea la base de datos
     - python manage.py runserver
         - levanta el servidor
 
